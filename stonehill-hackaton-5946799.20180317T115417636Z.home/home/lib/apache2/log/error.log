@@ -1,0 +1,7 @@
+[Mon Feb 26 05:29:14.274835 2018] [mpm_prefork:notice] [pid 6036] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Mon Feb 26 05:29:14.274913 2018] [core:notice] [pid 6036] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Feb 26 05:29:55.665517 2018] [mpm_prefork:notice] [pid 6036] AH00169: caught SIGTERM, shutting down
+[Mon Feb 26 05:29:56.826090 2018] [mpm_prefork:notice] [pid 6210] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Mon Feb 26 05:29:56.826154 2018] [core:notice] [pid 6210] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Feb 26 05:30:41.629066 2018] [core:info] [pid 6214] [client 10.240.1.191:48196] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://stonehill-hackaton-cryogenicplanet.c9users.io:8081/phpmyadmin
+[Mon Feb 26 07:20:21.729275 2018] [core:info] [pid 6216] [client 10.240.1.65:35054] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://stonehill-hackaton-cryogenicplanet.c9users.io:8081/phpmyadmin
