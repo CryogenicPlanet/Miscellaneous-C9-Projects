@@ -1,0 +1,83 @@
+[Thu Aug 23 13:33:31.116581 2018] [mpm_prefork:notice] [pid 4729] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Aug 23 13:33:31.116680 2018] [core:notice] [pid 4729] AH00094: Command line: 'apache2'
+[Thu Aug 23 13:33:34.956412 2018] [mpm_prefork:notice] [pid 4729] AH00169: caught SIGTERM, shutting down
+[Thu Aug 23 13:33:36.125940 2018] [mpm_prefork:notice] [pid 5319] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Aug 23 13:33:36.126027 2018] [core:notice] [pid 5319] AH00094: Command line: 'apache2'
+[Thu Aug 23 13:33:46.121308 2018] [core:info] [pid 5326] [client 10.240.1.50:42940] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://vivum-hack-cryogenicplanet.c9users.io/client/index.html
+[Thu Aug 23 13:40:05.519077 2018] [mpm_prefork:notice] [pid 5319] AH00169: caught SIGTERM, shutting down
+[Thu Aug 23 13:40:26.313320 2018] [mpm_prefork:notice] [pid 6353] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Aug 23 13:40:26.313443 2018] [core:notice] [pid 6353] AH00094: Command line: 'apache2'
+[Thu Aug 23 13:43:05.835663 2018] [mpm_prefork:notice] [pid 6353] AH00169: caught SIGTERM, shutting down
+[Thu Aug 23 13:48:03.264985 2018] [mpm_prefork:notice] [pid 8181] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Aug 23 13:48:03.265079 2018] [core:notice] [pid 8181] AH00094: Command line: 'apache2'
+[Thu Aug 23 13:53:16.673235 2018] [core:info] [pid 8190] [client 10.240.1.191:36260] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://vivum-hack-cryogenicplanet.c9users.io:8081/client/index.html
+[Thu Aug 23 14:21:15.690236 2018] [mpm_prefork:notice] [pid 8181] AH00169: caught SIGTERM, shutting down
+[Thu Aug 23 14:21:16.930135 2018] [mpm_prefork:notice] [pid 13067] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Aug 23 14:21:16.930212 2018] [core:notice] [pid 13067] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Aug 23 14:26:08.553014 2018] [mpm_prefork:notice] [pid 13067] AH00169: caught SIGTERM, shutting down
+[Thu Aug 23 14:26:09.685082 2018] [mpm_prefork:notice] [pid 13301] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Aug 23 14:26:09.685156 2018] [core:notice] [pid 13301] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Aug 23 14:26:31.698398 2018] [core:info] [pid 13305] [client 10.240.1.65:59472] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://vivum-hack-cryogenicplanet.c9users.io:8081/phpmyadmin
+[Thu Aug 23 14:26:37.583071 2018] [mpm_prefork:notice] [pid 13301] AH00169: caught SIGTERM, shutting down
+[Thu Aug 23 14:26:38.765236 2018] [mpm_prefork:notice] [pid 13826] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Aug 23 14:26:38.765339 2018] [core:notice] [pid 13826] AH00094: Command line: 'apache2'
+[Thu Aug 23 14:37:09.554475 2018] [core:info] [pid 13834] [client 10.240.0.64:39682] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://vivum-hack-cryogenicplanet.c9users.io:8081/client/index.html
+[Thu Aug 23 16:56:13.512429 2018] [mpm_prefork:notice] [pid 13826] AH00169: caught SIGTERM, shutting down
+[Thu Aug 23 16:56:14.722585 2018] [mpm_prefork:notice] [pid 22197] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Aug 23 16:56:14.722684 2018] [core:notice] [pid 22197] AH00094: Command line: 'apache2'
+[Thu Aug 23 19:49:43.420185 2018] [core:info] [pid 22824] [client 10.240.0.64:49972] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://vivum-hack-cryogenicplanet.c9users.io:8081/client/index.html
+[Thu Aug 23 23:25:48.931194 2018] [core:warn] [pid 12304] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Aug 23 23:25:48.937108 2018] [mpm_prefork:notice] [pid 12304] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Aug 23 23:25:48.937164 2018] [core:notice] [pid 12304] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Aug 23 23:26:17.451494 2018] [mpm_prefork:notice] [pid 12304] AH00169: caught SIGTERM, shutting down
+[Thu Aug 23 23:26:20.952924 2018] [mpm_prefork:notice] [pid 13314] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Aug 23 23:26:20.953004 2018] [core:notice] [pid 13314] AH00094: Command line: 'apache2'
+[Fri Aug 24 00:13:14.536351 2018] [core:info] [pid 13328] [client 10.240.0.64:41156] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://vivum-hack-cryogenicplanet.c9users.io:8081/client/login.html
+[Fri Aug 24 00:15:58.259148 2018] [mpm_prefork:notice] [pid 13314] AH00169: caught SIGTERM, shutting down
+[Fri Aug 24 00:15:59.409087 2018] [mpm_prefork:notice] [pid 20889] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Aug 24 00:15:59.409172 2018] [core:notice] [pid 20889] AH00094: Command line: 'apache2'
+[Fri Aug 24 00:16:51.352459 2018] [mpm_prefork:notice] [pid 20889] AH00169: caught SIGTERM, shutting down
+[Fri Aug 24 00:16:55.021688 2018] [mpm_prefork:notice] [pid 21449] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Aug 24 00:16:55.021786 2018] [core:notice] [pid 21449] AH00094: Command line: 'apache2'
+[Fri Aug 24 01:42:30.388956 2018] [mpm_prefork:notice] [pid 21449] AH00169: caught SIGTERM, shutting down
+[Fri Aug 24 01:42:31.502636 2018] [mpm_prefork:notice] [pid 30283] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Aug 24 01:42:31.502727 2018] [core:notice] [pid 30283] AH00094: Command line: 'apache2'
+[Fri Aug 24 01:42:52.443303 2018] [mpm_prefork:notice] [pid 30283] AH00169: caught SIGTERM, shutting down
+[Fri Aug 24 03:06:51.439408 2018] [mpm_prefork:notice] [pid 35050] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Aug 24 03:06:51.439505 2018] [core:notice] [pid 35050] AH00094: Command line: 'apache2'
+[Fri Aug 24 03:14:59.085932 2018] [mpm_prefork:notice] [pid 35050] AH00169: caught SIGTERM, shutting down
+[Fri Aug 24 03:15:00.289212 2018] [mpm_prefork:notice] [pid 35641] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Aug 24 03:15:00.289350 2018] [core:notice] [pid 35641] AH00094: Command line: 'apache2'
+[Fri Aug 24 03:15:25.817486 2018] [mpm_prefork:notice] [pid 35641] AH00169: caught SIGTERM, shutting down
+[Fri Aug 24 03:15:26.990397 2018] [mpm_prefork:notice] [pid 36178] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Aug 24 03:15:26.990496 2018] [core:notice] [pid 36178] AH00094: Command line: 'apache2'
+[Fri Aug 24 03:30:15.812319 2018] [mpm_prefork:notice] [pid 36178] AH00169: caught SIGTERM, shutting down
+[Fri Aug 24 03:30:17.024850 2018] [mpm_prefork:notice] [pid 37827] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Aug 24 03:30:17.024959 2018] [core:notice] [pid 37827] AH00094: Command line: 'apache2'
+[Fri Aug 24 03:32:51.710544 2018] [mpm_prefork:notice] [pid 37827] AH00169: caught SIGTERM, shutting down
+[Fri Aug 24 03:32:52.894390 2018] [mpm_prefork:notice] [pid 40620] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Aug 24 03:32:52.894487 2018] [core:notice] [pid 40620] AH00094: Command line: 'apache2'
+[Fri Aug 24 03:36:31.475503 2018] [mpm_prefork:notice] [pid 40620] AH00169: caught SIGTERM, shutting down
+[Fri Aug 24 03:36:32.612711 2018] [mpm_prefork:notice] [pid 42209] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Aug 24 03:36:32.612812 2018] [core:notice] [pid 42209] AH00094: Command line: 'apache2'
+[Fri Aug 24 03:38:18.092311 2018] [mpm_prefork:notice] [pid 42209] AH00169: caught SIGTERM, shutting down
+[Fri Aug 24 03:38:20.924078 2018] [mpm_prefork:notice] [pid 43461] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Aug 24 03:38:20.924170 2018] [core:notice] [pid 43461] AH00094: Command line: 'apache2'
+[Fri Aug 24 03:39:46.000619 2018] [core:info] [pid 43469] [client 10.240.1.30:55326] AH00128: File does not exist: /home/ubuntu/workspace/client/stats
+[Fri Aug 24 04:16:16.780750 2018] [core:info] [pid 43472] [client 10.240.0.64:33304] AH00128: File does not exist: /home/ubuntu/workspace/client/vivum-hack.cryogenicplanet.c9users.io/attendance, referer: https://vivum-hack-cryogenicplanet.c9users.io:8081/client/stats.html
+[Fri Aug 24 04:16:42.316016 2018] [core:info] [pid 43469] [client 10.240.1.50:43294] AH00128: File does not exist: /home/ubuntu/workspace/client/vivum-hack.cryogenicplanet.c9users.io/attendance, referer: https://vivum-hack-cryogenicplanet.c9users.io:8081/client/stats.html
+[Fri Aug 24 04:29:56.016364 2018] [core:info] [pid 43468] [client 10.240.1.50:60886] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: http://vivum-hack-cryogenicplanet.c9users.io:8081/client/stats.html
+[Fri Aug 24 04:42:36.128012 2018] [core:info] [pid 44005] [client 10.240.1.65:52386] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: http://vivum-hack-cryogenicplanet.c9users.io:8081/client/stats.html
+[Fri Aug 24 06:00:28.617489 2018] [mpm_prefork:notice] [pid 43461] AH00169: caught SIGTERM, shutting down
+[Fri Aug 24 06:02:06.145532 2018] [mpm_prefork:notice] [pid 60408] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Aug 24 06:02:06.145624 2018] [core:notice] [pid 60408] AH00094: Command line: 'apache2'
+[Fri Aug 24 06:12:57.497863 2018] [mpm_prefork:notice] [pid 60408] AH00169: caught SIGTERM, shutting down
+[Fri Aug 24 06:13:00.060588 2018] [mpm_prefork:notice] [pid 65148] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Aug 24 06:13:00.060682 2018] [core:notice] [pid 65148] AH00094: Command line: 'apache2'
+[Fri Aug 24 07:16:45.141674 2018] [core:info] [pid 65157] [client 10.240.1.50:37516] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: http://vivum-hack.cryogenicplanet.c9users.io:8081/client/stats.html
+[Sat Aug 25 10:08:03.806552 2018] [core:warn] [pid 9260] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Aug 25 10:08:03.811784 2018] [mpm_prefork:notice] [pid 9260] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Sat Aug 25 10:08:03.811846 2018] [core:notice] [pid 9260] AH00094: Command line: 'apache2'
+[Tue Aug 28 04:27:40.462306 2018] [core:warn] [pid 3759] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Aug 28 04:27:40.470012 2018] [mpm_prefork:notice] [pid 3759] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue Aug 28 04:27:40.470062 2018] [core:notice] [pid 3759] AH00094: Command line: 'apache2'

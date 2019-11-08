@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css">
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script>
+        (function getAttendance() {
+            $.ajax({
+                url: "http://vivum-hack.cryogenicplanet.c9users.io/attendance",
+                headers: { 'Access-Control-Allow-Origin': '*' },
+                success: function(result) {
+                    let data = result.users;
+                    document.getElementById("tableBody").innerHTML = '<tr><td style="width: 138px;"><strong>&nbsp;Student Name</strong></td><td style="width: 10px;"><strong>Present</strong></td></tr>';
+                    for (let elem of data) {
+                        let present = elem.Attendance == 1 ? 'YES' : 'NO';
+                        var HTML = `<tr><td style="width: 138px;">&nbsp;${elem.Name}</td><td style="width: 10px;">&nbsp;${present}</td></tr>`;
+                        document.getElementById("tableBody").insertAdjacentHTML("beforeend", HTML);
+                    }
+                }
+            });
+        })();
+    </script>
+</head>
+
+<body>
+    <nav>
+        <div class="nav-wrapper black">
+            <a href="#" class="brand-logo center">Facial Recognition</a>
+            <ul id="nav-mobile" class="right hide-on-med-and-down">
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="row">
+            <div class="col s12 center-align">
+                <h4 class="thin italic">Attendance</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col s8 offset-s2">
+                <div class="card z-depth-3">
+                    <div class="card-content">
+                        <center>
+                            <table class="striped">
+                                <tbody id="tableBody">
+
+                                </tbody>
+                            </table>
+                        </center>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+     
+            
+
+
+    <!-- table -->
+
+    <p>&nbsp;</p>
+
+</body>
+
+</html>

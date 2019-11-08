@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css">
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+    <script type="text/javascript">
+        function login() {
+            var username = document.getElementById("username");
+            var password = document.getElementById("password");
+            if (username == "teacher" && password == "testing") {
+                window.location.href = "/client/stats.html";
+            }
+        }
+    </script>
+</head>
+
+<body>
+    <br>
+    <!--  actual stuff -->
+    <center>
+        <h3>Admin Login</h3>
+    </center>
+
+    <br>
+    <br>
+    <div class="container">
+        <br>
+        <input id="username" type="text" placeholder="Enter Username" name="uname" required>
+
+        <br>
+        <input id="password" type="password" placeholder="Enter Password" name="password" required>
+        <br>
+        <br>
+        <br>
+
+        <center><a href="stats.html" class="btn blue" onclick="login();">Submit</a></center>
+        <br>
+    </div>
+
+</body>
+
+</html>
