@@ -1,0 +1,12 @@
+{
+  "name": "itron-hackathon",
+  "id": "6000426",
+  "description": "",
+  "gitUrl": "",
+  "workspaceType": "nodejs",
+  "dockerBaseImage": "cloud9/ws-nodejs:2017-08-31T12-15-07Z",
+  "owner": {
+    "name": "cryogenicplanet",
+    "id": "1497959"
+  }
+}
